@@ -1,5 +1,5 @@
 {
-    "name": "philsbury/woocommerce-stubs",
+    "name": "php-stubs/woocommerce-stubs",
     "description": "Woocommerce stubs for static analysis.",
     "keywords": [
         "woocommerce",
